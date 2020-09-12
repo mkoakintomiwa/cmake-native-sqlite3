@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/musthy/projects/native-sqlite3/build",
-  "command": "/bin/gcc-9  -isystem /home/musthy/vcpkg/installed/x64-linux/include  -g   -o CMakeFiles/main.dir/main.c.o   -c /home/musthy/projects/native-sqlite3/main.c",
-  "file": "/home/musthy/projects/native-sqlite3/main.c"
+  "command": "/bin/g++-9   -isystem /home/musthy/vcpkg/installed/x64-linux/include  -g   -o CMakeFiles/main.dir/main.cpp.o -c /home/musthy/projects/native-sqlite3/main.cpp",
+  "file": "/home/musthy/projects/native-sqlite3/main.cpp"
 }
 ]
